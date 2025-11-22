@@ -2,7 +2,7 @@
 
 ### 🧑 Who even am I?
 
-* I'm Mahancoder
+* I'm Mahan
 * I'm a teenager
 * I love coding and do it as a hobby
 * You can call me by "He/Him"
