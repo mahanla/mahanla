@@ -29,7 +29,7 @@ See [Projects.md](Projects.md)
 ### Stats
 [![Mahancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahancoder&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahancoder)
 
-### But Mahancoder, how can I contact you?
+### But Mahan, how can I contact you?
 You can contact me at:
 * [My email](mailto:mahan.lameie87@gmail.com)
 * Discord: `devrandom42`
