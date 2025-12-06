@@ -18,7 +18,7 @@
 * I have a 3D Printer and use it a lot for my electronic projects
 
 ### 💻 What technologies do I use?
-* I use Arch Linux for my daily driver (configs can be found at [.dotfiles](https://github.com/mahancoder/.dotfiles))
+* I use Arch Linux for my daily driver (configs can be found at [.dotfiles](https://github.com/mahanla/.dotfiles))
 * I use NeoVim as my main editor
 * I also use VS Code from time to time
 * I use FreeCAD as my 3D Designing software
@@ -27,7 +27,7 @@
 See [Projects.md](Projects.md)
 
 ### Stats
-[![Mahancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahancoder&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahancoder)
+[![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahanla&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahanla)
 
 ### But Mahan, how can I contact you?
 You can contact me at:
