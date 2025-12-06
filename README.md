@@ -26,9 +26,6 @@
 ### Projects
 See [Projects.md](Projects.md)
 
-### Stats
-[![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahanla&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahanla)
-
 ### But Mahan, how can I contact you?
 You can contact me at:
 * [My email](mailto:mahan.lameie87@gmail.com)
