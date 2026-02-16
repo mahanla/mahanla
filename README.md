@@ -4,8 +4,6 @@
 
 * I'm Mahan
 * I'm a highschooler
-* I love coding and do it as a hobby
-* I have been studying for the International Math Olympiad for the past years and haven't been coding much tho
 
 ### 📖 What do I know?
 * I know C#, Python and C++ as my main languages
@@ -27,6 +25,4 @@
 See [Projects.md](Projects.md)
 
 ### But Mahan, how can I contact you?
-You can contact me at:
-* [My email](mailto:mahan.lameie87@gmail.com)
-* Discord: `devrandom42`
+You can contact me at [My email](mailto:mahan.lameie87@gmail.com)
