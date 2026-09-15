@@ -1,10 +1,7 @@
 # Hi, random visitor!
 
-I'm **Mahan**, a mathematics and computer science enthusiast.
-
-I enjoy understanding how things work, building things from scratch, and going down unnecessarily deep rabbit holes about technology, mathematics, and engineering.
-
 ## 🧑 Who even am I?
+I'm **Mahan**, a mathematics and computer science enthusiast.
 
 I'm a **Mathematics Olympiad Gold Medalist** and a Computer Science enthusiast with a background spanning software engineering, systems, electronics, robotics, and mathematics.
 
