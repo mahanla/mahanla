@@ -26,8 +26,7 @@ My interests are pretty scattered, but they tend to revolve around **building th
 
 ## 💻 What do I use?
 
-* 🐧 **Arch Linux** as my daily driver
-  My configurations live in [`.dotfiles`](https://github.com/mahanla/.dotfiles)
+* 🐧 **Arch Linux** as my daily driver. My configurations live in [`.dotfiles`](https://github.com/mahanla/.dotfiles)
 * 📝 **Neovim** as my main editor
 * 💙 **VS Code** when I need it
 * 📐 **FreeCAD** for mechanical design
@@ -46,17 +45,6 @@ A few highlights include:
 * 📚 Educational tools and infrastructure for **mathematics olympiad students**
 
 See [Projects.md](Projects.md) for more.
-
-## 🧠 What else am I into?
-
-When I'm not programming or doing mathematics, I tend to wander into:
-
-* 🎹 Piano and composition
-* 🔭 Astronomy and astrophotography
-* 🧠 Psychology
-* 📚 Literature and writing
-
-I like the intersection between **analytical thinking and creative work**, and I'm usually learning something new just because I got curious about it.
 
 ## 📫 But Mahan, how can I contact you?
 
